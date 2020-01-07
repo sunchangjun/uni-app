@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/tabBar/recommend/recommend",
+    "pages/tabBar/mv/mv",
+    "pages/tabBar/song/song",
+    "pages/recommend/occident_diss/occident_diss"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#1b160a",
+    "selectedColor": "#007AFF",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/recommend/recommend",
+        "text": "推荐"
+      },
+      {
+        "pagePath": "pages/tabBar/mv/mv",
+        "text": "MV"
+      },
+      {
+        "pagePath": "pages/tabBar/song/song",
+        "text": "Song"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap38.json"
+}

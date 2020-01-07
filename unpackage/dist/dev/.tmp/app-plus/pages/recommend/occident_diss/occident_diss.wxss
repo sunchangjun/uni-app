@@ -1,0 +1,12 @@
+
+.global{
+	height: auto;
+}
+.title{
+	height: 20%;
+	background-color: #55FFFF;
+	color: #F8F8F8;
+	text-align: center;
+}
+
+

@@ -1,0 +1,12 @@
+{
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSize": "22px",
+        "color": "#FFFFFF"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
