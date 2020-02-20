@@ -29,7 +29,7 @@
     ],
 	"globalStyle": { //设置默认页面的窗口表现
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
+		"navigationBarTitleText": "hello scj",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},

@@ -1,2 +1,2 @@
-setCssToHead([".",[1],"global{ height: auto; }\n.",[1],"title{ height: 20%; background-color: #55FFFF; color: #F8F8F8; text-align: center; }\n",],undefined,{path:"./pages/recommend/occident_diss/occident_diss.wxss"})();
+setCssToHead([".",[1],"global{ height: auto; }\n.",[1],"title{ height: 20%; background-color: #55FFFF; color: #F8F8F8; text-align: center; font-size:",[0,75],"; }\n",],undefined,{path:"./pages/recommend/occident_diss/occident_diss.wxss"})();
 document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/recommend/occident_diss/occident_diss.wxml') } }));

@@ -5,6 +5,7 @@
 </template>
 
 <script>
+	uni.setNavigationBarTitle({title: '歌曲'});
 	export default {
 		data() {
 			return {

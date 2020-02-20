@@ -4,16 +4,40 @@
 }
 .title {
 	height: 15%;
-	color: #ff007f;
+	color: #55aaff;
 	font-size: 75rpx;
 	font-family: 'Courier New', Courier, monospace;
 	text-align: center;
 	margin-top: auto;
-	background-color: #55aaff;
+	background-color: #ffffff;
 }
 .body {
-	height: 85%;
+	height: 1000rpx;
 	color: #55ffff;
 	font-size: 45rpx;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin: 10rpx;
+	padding: 12rpx;
+	border: 10rpx;
+	background-image:url('/static/kdwlll.jpg');
+}
+.uni-panel-text {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	text-align: center;
+	color: #000000;
+	font-size: 50rpx;
+	font-weight: normal;
+	margin:20rpx 0rpx 20rpx 40rpx;
+}
+.uni-panel-c{
+	margin:10rpx 5rpx 15rpx 60rpx;
+}
+.uni-navigate-text{
+	font-size: 35rpx;
 }
 

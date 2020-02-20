@@ -3,7 +3,7 @@
 		<view class="title">
 			<text class="hello-text">标题:mv</text>
 		</view>
-		<view class="body">
+		<view class="icon iconfont icon-aixin">
 			 <text>内容区</text>
 		</view>
 		
